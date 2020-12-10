@@ -1,2 +1,3 @@
 # Game-of-chance
-This is my school project. I made this project in Turkish.
+This program chooses ten random numbers and asks the user to select ten numbers as well; it then shows the users which numbers match.
+Selected numbers must be between zero with eighty.
